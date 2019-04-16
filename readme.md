@@ -1,7 +1,7 @@
 ## Spring 系列教程
 该仓库为个人博客[https://mrbird.cc](https://mrbird.cc)中Spring系列源码，包含Spring Boot、Spring Boot & Shiro、Spring Cloud和Spring Boot & Spring Security，如果该系列教程对您有帮助的话，还请点个star给予精神支持！🐤
 
-### Spring Boot教程
+### Spring Boot教程 
 1. [开启Spring Boot](https://mrbird.cc/%E5%BC%80%E5%90%AFSpring-Boot.html)
 2. [Spring Boot基础配置](https://mrbird.cc/Spring-Boot%20basic%20config.html)
 3. [Spring Boot中使用MyBatis](https://mrbird.cc/Spring-Boot%20Mybatis.html)
@@ -26,13 +26,17 @@
 22. [Spring Boot异常处理](https://mrbird.cc/Spring-Boot-Exception.html)
 23. [Spring Boot中使用过滤器和拦截器](https://mrbird.cc/Spring-Boot-Filter-Interceptor.html)
 24. [Spring Boot整合MyBatis通用Mapper和PageHelper](https://mrbird.cc/MyBatis%20common%20Mapper%20PageHelper.html)
-25. [Spring Boot整合Dubbo&Zookeeper](https://mrbird.cc/Spring-Boot-Dubbo-Zookeeper.html)
 26. [深入学习Spring Boot自动装配](https://mrbird.cc/deepin-springboot-autoconfig.html)
 27. [深入学习Spring Boot中的SpringApplication](https://mrbird.cc/deepin-springboot-application.html)
 28. [Spring Boot配合Hibernate Validator参数校验](https://mrbird.cc/Spring-Boot-Hibernate-Validator-Params-Check.html)
 29. [自定义Spring Boot 内容协商](https://mrbird.cc/Spring-Boot-Diy-Resolver.html)
 30. [Spring Boot 中处理跨域](https://mrbird.cc/Spring-Boot-Deal-CORS.html)
 31. [Spring Boot 中的异步调用](https://mrbird.cc/Spring-Boot-Async.html)
+32. [Spring Boot 整合Kafka](https://mrbird.cc/Spring-Boot-Kafka.html)
+33. [Spring Boot整合Mongo DB](https://mrbird.cc/Spring-Boot-Mongo-DB-CRUD.html)
+34. [Spring Boot 2.0 WebFlux编程](https://mrbird.cc/Spring-Boot-2-0-WebFlux.html)
+35. [Spring Boot WebFlux增删改查样例](https://mrbird.cc/Spring-Boot-WebFlux-CRUD.html)
+
 
 ### Spring Boot & Shiro教程
 1. [Spring Boot Shiro用户认证](https://mrbird.cc/Spring-Boot-shiro%20Authentication.html)
@@ -62,6 +66,12 @@
 9. [Spring Cloud Config统一配置管理](https://mrbird.cc/Spring-Cloud-Config.html)
 10. [使用Spring Cloud Bus刷新配置](https://mrbird.cc/Spring-Cloud-Bus.html)
 11. [使用Spring Cloud Sleuth跟踪微服务](https://mrbird.cc/Spring-Cloud-sleuth.html)
+12. [Spring Cloud Consul服务治理](https://mrbird.cc/Spring-Cloud-Consul.html)
+
+### Spring Boot && Dubbo教程
+1. [Spring Boot整合Dubbo&Zookeeper](https://mrbird.cc/Spring-Boot-Dubbo-Zookeeper.html)
+2. [监控Dubbo服务](https://mrbird.cc/dubbo-mointor.html)
+3. [Dubbo的高可用](https://mrbird.cc/Dubbo-High-Availability.html)
 
 ## Spring
 1. [深入学习Spring组件注册](https://mrbird.cc/Spring-Bean-Regist.html)

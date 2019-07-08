@@ -1,5 +1,5 @@
 ## Spring 系列教程
-该仓库为个人博客[https://mrbird.cc](https://mrbird.cc)中Spring系列源码，包含Spring Boot、Spring Boot & Shiro、Spring Cloud和Spring Boot & Spring Security，如果该系列教程对您有帮助的话，还请点个star给予精神支持！🐤
+该仓库为个人博客[https://mrbird.cc](https://mrbird.cc)中Spring系列源码，包含Spring Boot、Spring Boot & Shiro、Spring Cloud，Spring Boot & Spring Security & Spring Security OAuth2，如果该系列教程对您有帮助的话，还请点个star给予精神支持！🐤
 
 ### Spring Boot教程 
 1. [开启Spring Boot](https://mrbird.cc/%E5%BC%80%E5%90%AFSpring-Boot.html)
@@ -46,6 +46,7 @@
 5. [Spring Boot Shiro Ehcache](https://mrbird.cc/Spring-Boot-Shiro%20cache.html)
 6. [Spring Boot Thymeleaf中使用Shiro标签](https://mrbird.cc/Spring-Boot-Themeleaf%20Shiro%20tag.html)
 7. [Spring Boot Shiro在线会话管理](https://mrbird.cc/Spring-Boot-Shiro%20session.html)
+8. [Spring Boot Shiro整合JWT](https://github.com/wuyouzhuguli/SpringAll/tree/master/62.Spring-Boot-Shiro-JWT)
 
 ### Spring Boot & Security教程
 1. [Spring Boot中开启Spring Security](https://mrbird.cc/Spring-Boot&Spring-Security.html)
@@ -53,7 +54,13 @@
 3. [Spring Security添加图形验证码](https://mrbird.cc/Spring-Security-ValidateCode.html)
 4. [Spring Security添加记住我功能](https://mrbird.cc/Spring-Security-RememberMe.html)
 5. [Spring Security短信验证码登录](https://mrbird.cc/Spring-Security-SmsCode.html)
-
+6. [Spring Security Session管理](https://mrbird.cc/Spring-Security-Session-Manage.html)
+7. [Spring Security退出登录](https://mrbird.cc/Spring-Security-logout.html)
+8. [Spring Security权限控制](https://mrbird.cc/Spring-Security-Permission.html)
+9. [Spring Security OAuth2入门](https://mrbird.cc/Spring-Security-OAuth2-Guide.html)
+10. [Spring Security OAuth2自定义Token获取方式](https://mrbird.cc/Spring-Security-OAuth2-Customize.html)
+11. [Spring Security OAuth2自定义令牌配置](https://mrbird.cc/Spring-Security-OAuth2-Token-Config.html)
+12. [Spring Security OAuth2单点登录](https://mrbird.cc/Spring-Security-OAuth2-SSO.html)
 ### Spring Cloud教程
 1. [初识Spring Cloud与微服务](https://mrbird.cc/Spring-Cloud%20and%20MicroService.html)
 2. [Spring Cloud Eureka服务治理](https://mrbird.cc/Spring-Cloud-Eureka.html)
